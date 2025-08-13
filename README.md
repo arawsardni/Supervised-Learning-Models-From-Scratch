@@ -1,6 +1,7 @@
 # Supervised-Learning-Models-From-Scratch
 
 # 📊 Telco Customer Churn Prediction using Supervised Learning
+> **Disclaimer**: The provided Jupyter Notebook and detailed project documentation are written in **Bahasa Indonesia**.
 
 This project is part of the **Advanced Artificial Intelligence** coursework at Universitas Brawijaya. It focuses on predicting customer churn in the telecommunications industry using supervised learning algorithms. The dataset used comes from [Kaggle's Telco Customer Churn dataset](https://www.kaggle.com/blastchar/telco-customer-churn).
 
